@@ -1,46 +1,30 @@
 <table width="100%" bgcolor="#F09050">
  <tr>
-
-  <td align="center">
-   <font style="font-family:Mistral;" color="red">
-    <a href="Home.jsp" style="text-decoration:none">HOME</a>
-   </font>
+  <td align="center">   
+    <a href="Home.jsp" style="text-decoration:none"><font style="font-family:Mistral;" color="blue">HOME</font></a>   
   </td>
-  <td align="center">
-   <font style="font-family:Mistral;" color="red">
+  <td align="center">   
     <a href="108NamesOfMaaDurga1.jsp"
-       style="text-decoration:none">108 NAMES</a>
-   </font>
+       style="text-decoration:none"><font style="font-family:Mistral;" color="blue">108 NAMES</font></a>   
   </td>
-  <td align="center">
-   <font style="font-family:Mistral;" color="red">
+  <td align="center">   
     <a href="MemberLoginPage.jsp"
-       style="text-decoration:none">MEMBERS LOGIN PAGE</a>
-   </font>
+       style="text-decoration:none"><font style="font-family:Mistral;" color="blue">MEMBERS LOGIN PAGE</font></a>   
   </td>
-  <td align="center">
-   <font style="font-family:Mistral;" color="red">
-  <a href="BhandaraCommitteeMembers.jsp" style="text-decoration:none">BHANDARA COMMITTEE MEMBERS</a>
-   </font>
+  <td align="center">   
+  <a href="BhandaraCommitteeMembers.jsp" style="text-decoration:none"><font style="font-family:Mistral;" color="blue">BHANDARA COMMITTEE MEMBERS</font></a>   
   </td>
-  <td align="center">
-   <font style="font-family:Mistral;" color="red">
+  <td align="center">   
     <a href="MataAppeal.jsp"
-       style="text-decoration:none">MATA APPEAL</a>
-   </font>
+       style="text-decoration:none"><font style="font-family:Mistral;" color="blue">MATA APPEAL</font></a>   
   </td>
-  <td align="center">
-   <font style="font-family:Mistral;" color="red">
+  <td align="center">   
     <a href="Snapshot.jsp"
-       style="text-decoration:none">SNAPSHOTS</a>
-   </font>
-  </td>
-  
-  <td align="center">
-   <font style="font-family:Mistral;" color="red">
+       style="text-decoration:none"><font style="font-family:Mistral;" color="blue">SNAPSHOTS</font></a>   
+  </td>  
+  <td align="center">   
     <a href="ContactUs.jsp"
-       style="text-decoration:none">CONTACT US</a>
-   </font>
+       style="text-decoration:none"><font style="font-family:Mistral;" color="blue">CONTACT US</font></a>   
   </td>
  </tr>
  </table>
